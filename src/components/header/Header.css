@@ -1,0 +1,10 @@
+.header{
+    width: 100%;
+     background-color: rgba(255, 131, 127, 0.5);
+    margin: auto;
+   
+}
+.logo{
+    width: 400px;
+    display: flex;
+}
